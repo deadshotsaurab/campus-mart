@@ -18,7 +18,7 @@ Campus Mart is a campus marketplace application inspired by OLX where students c
 - Dart
 
 ## 📱 Screenshots
-<img width="1911" height="882" alt="image" src="https://github.com/user-attachments/assets/0bee8d91-d51d-4eee-b90a-31bb707eeb13" />
+![Campus Mart UI](campus-mart_ss.png)
 
 
 ## 🚀 Installation
